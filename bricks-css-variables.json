@@ -1,0 +1,250 @@
+{
+  "variables": [
+    {
+      "id": "mtuypd",
+      "name": "bg-surface",
+      "value": "#ebeef7"
+    },
+    {
+      "id": "ghqbpq",
+      "name": "color-accent",
+      "value": "#ff7652"
+    },
+    {
+      "id": "kffeqd",
+      "name": "color-dark",
+      "value": "#000000"
+    },
+    {
+      "id": "genuji",
+      "name": "color-light",
+      "value": "#ffffff"
+    },
+    {
+      "id": "wqjbrr",
+      "name": "color-primary",
+      "value": "#7f4afc"
+    },
+    {
+      "id": "rejgog",
+      "name": "color-secondary",
+      "value": "#0f121b"
+    },
+    {
+      "id": "pnxsrm",
+      "name": "color-tertiary",
+      "value": "#535862"
+    },
+    {
+      "id": "xysxmw",
+      "name": "grid-1",
+      "value": "1fr"
+    },
+    {
+      "id": "qqdadw",
+      "name": "grid-2",
+      "value": "repeat(2, 1fr)"
+    },
+    {
+      "id": "vuezhf",
+      "name": "grid-3",
+      "value": "repeat(3, 1fr)"
+    },
+    {
+      "id": "ovmsin",
+      "name": "grid-4",
+      "value": "repeat(4, 1fr)"
+    },
+    {
+      "id": "hjoqjj",
+      "name": "grid-5",
+      "value": "repeat(5, 1fr)"
+    },
+    {
+      "id": "kpawzp",
+      "name": "grid-6",
+      "value": "repeat(6, 1fr)"
+    },
+    {
+      "id": "fihqum",
+      "name": "grid-7",
+      "value": "repeat(7, 1fr)"
+    },
+    {
+      "id": "afnvov",
+      "name": "grid-8",
+      "value": "repeat(8, 1fr)"
+    },
+    {
+      "id": "qvqyww",
+      "name": "grid-9",
+      "value": "repeat(9, 1fr)"
+    },
+    {
+      "id": "prnxoi",
+      "name": "grid-10",
+      "value": "repeat(10, 1fr)"
+    },
+    {
+      "id": "zendtq",
+      "name": "grid-11",
+      "value": "repeat(11, 1fr)"
+    },
+    {
+      "id": "fjjafk",
+      "name": "grid-12",
+      "value": "repeat(12, 1fr)"
+    },
+    {
+      "id": "mzdesm",
+      "name": "page-width",
+      "value": "1366px"
+    },
+    {
+      "id": "srddkg",
+      "name": "radius-3xs",
+      "value": "0.2rem"
+    },
+    {
+      "id": "uotgof",
+      "name": "radius-2xs",
+      "value": "0.4rem"
+    },
+    {
+      "id": "fljtnq",
+      "name": "radius-xs",
+      "value": "0.8rem"
+    },
+    {
+      "id": "zxgmpz",
+      "name": "radius-sm",
+      "value": "1rem"
+    },
+    {
+      "id": "htuqxo",
+      "name": "radius-md",
+      "value": "1.5rem"
+    },
+    {
+      "id": "jlaoku",
+      "name": "radius-lg",
+      "value": "2rem"
+    },
+    {
+      "id": "kofpcd",
+      "name": "radius-xl",
+      "value": "3rem"
+    },
+    {
+      "id": "cftrww",
+      "name": "radius-2xl",
+      "value": "4.5rem"
+    },
+    {
+      "id": "uhkgzh",
+      "name": "radius-3xl",
+      "value": "7.5rem"
+    },
+    {
+      "id": "ytomba",
+      "name": "radius-full",
+      "value": "999rem"
+    },
+    {
+      "id": "lowqsi",
+      "name": "shadow-l",
+      "value": "0px 6px 30px 0px rgba(0,0,0,0.25)"
+    },
+    {
+      "id": "bervkv",
+      "name": "spacing-3xs",
+      "value": "1rem"
+    },
+    {
+      "id": "qeckou",
+      "name": "spacing-2xs",
+      "value": "1.5rem"
+    },
+    {
+      "id": "bcpuil",
+      "name": "spacing-xs",
+      "value": "2rem"
+    },
+    {
+      "id": "wdgyun",
+      "name": "spacing-sm",
+      "value": "clamp(2.4rem, 2.2164rem + 0.5736vw, 3.0rem)"
+    },
+    {
+      "id": "rzggvq",
+      "name": "spacing-md",
+      "value": "clamp(3.0rem, 2.5411rem + 1.4340vw, 4.5rem)"
+    },
+    {
+      "id": "aihyse",
+      "name": "spacing-lg",
+      "value": "clamp(4.5rem, 3.5822rem + 2.8681vw, 7.5rem)"
+    },
+    {
+      "id": "ajtgzt",
+      "name": "spacing-xl",
+      "value": "clamp(7.5rem, 6.7352rem + 2.3901vw, 10.0rem)"
+    },
+    {
+      "id": "hzealj",
+      "name": "spacing-2xl",
+      "value": "clamp(7.5rem, 3.6759rem + 11.9503vw, 20.0rem)"
+    },
+    {
+      "id": "mxvfry",
+      "name": "spacing-3xl",
+      "value": "clamp(7.5rem, 0.6166rem + 21.5105vw, 30.0rem)"
+    },
+    {
+      "id": "jqwpag",
+      "name": "text-3xs",
+      "value": "1.3rem"
+    },
+    {
+      "id": "nghoiv",
+      "name": "text-2xs",
+      "value": "1.4rem"
+    },
+    {
+      "id": "ypfljl",
+      "name": "text-xs",
+      "value": "1.6rem"
+    },
+    {
+      "id": "hlybgw",
+      "name": "text-sm",
+      "value": "clamp(1.6rem, 1.5388rem + 0.1912vw, 1.8rem)"
+    },
+    {
+      "id": "hsqppa",
+      "name": "text-md",
+      "value": "clamp(1.6rem, 1.4776rem + 0.3824vw, 2.0rem)"
+    },
+    {
+      "id": "hvfdxu",
+      "name": "text-lg",
+      "value": "clamp(2.0rem, 1.8776rem + 0.3824vw, 2.4rem)"
+    },
+    {
+      "id": "thzhtq",
+      "name": "text-xl",
+      "value": "clamp(2.2rem, 1.8941rem + 0.9560vw, 3.2rem)"
+    },
+    {
+      "id": "heyftx",
+      "name": "text-2xl",
+      "value": "clamp(2.4rem, 1.7576rem + 2.0076vw, 4.5rem)"
+    },
+    {
+      "id": "gxevtv",
+      "name": "text-3xl",
+      "value": "clamp(3.2rem, 2.2822rem + 2.8681vw, 6.2rem)"
+    }
+  ],
+  "categories": []
+}
