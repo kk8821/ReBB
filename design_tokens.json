@@ -1,0 +1,69 @@
+{
+  "meta": {
+    "description": "Renmoe 設計 Token（CSS Variables）",
+    "version": "1.0"
+  },
+  "tokens": {
+    "colors": {
+      "--bg-surface": "#ebeef7",
+      "--color-accent": "#ff7652",
+      "--color-dark": "#000000",
+      "--color-light": "#ffffff",
+      "--color-primary": "#7f4afc",
+      "--color-secondary": "#0f121b",
+      "--color-tertiary": "#535862"
+    },
+    "grid": {
+      "--grid-1": "1fr",
+      "--grid-2": "repeat(2, 1fr)",
+      "--grid-3": "repeat(3, 1fr)",
+      "--grid-4": "repeat(4, 1fr)",
+      "--grid-5": "repeat(5, 1fr)",
+      "--grid-6": "repeat(6, 1fr)",
+      "--grid-7": "repeat(7, 1fr)",
+      "--grid-8": "repeat(8, 1fr)",
+      "--grid-9": "repeat(9, 1fr)",
+      "--grid-10": "repeat(10, 1fr)",
+      "--grid-11": "repeat(11, 1fr)",
+      "--grid-12": "repeat(12, 1fr)"
+    },
+    "layout": {
+      "--page-width": "1366px",
+      "--shadow-l": "0px 6px 30px 0px rgba(0,0,0,0.25)"
+    },
+    "radius": {
+      "--radius-3xs": "0.2rem",
+      "--radius-2xs": "0.4rem",
+      "--radius-xs": "0.8rem",
+      "--radius-sm": "1rem",
+      "--radius-md": "1.5rem",
+      "--radius-lg": "2rem",
+      "--radius-xl": "3rem",
+      "--radius-2xl": "4.5rem",
+      "--radius-3xl": "7.5rem",
+      "--radius-full": "999rem"
+    },
+    "spacing": {
+      "--spacing-3xs": "1rem",
+      "--spacing-2xs": "1.5rem",
+      "--spacing-xs": "2rem",
+      "--spacing-sm": "clamp(2.4rem, 2.2164rem + 0.5736vw, 3.0rem)",
+      "--spacing-md": "clamp(3.0rem, 2.5411rem + 1.4340vw, 4.5rem)",
+      "--spacing-lg": "clamp(4.5rem, 3.5822rem + 2.8681vw, 7.5rem)",
+      "--spacing-xl": "clamp(7.5rem, 6.7352rem + 2.3901vw, 10.0rem)",
+      "--spacing-2xl": "clamp(7.5rem, 3.6759rem + 11.9503vw, 20.0rem)",
+      "--spacing-3xl": "clamp(7.5rem, 0.6166rem + 21.5105vw, 30.0rem)"
+    },
+    "typography": {
+      "--text-3xs": "1.3rem",
+      "--text-2xs": "1.4rem",
+      "--text-xs": "1.6rem",
+      "--text-sm": "clamp(1.6rem, 1.5388rem + 0.1912vw, 1.8rem)",
+      "--text-md": "clamp(1.6rem, 1.4776rem + 0.3824vw, 2.0rem)",
+      "--text-lg": "clamp(2.0rem, 1.8776rem + 0.3824vw, 2.4rem)",
+      "--text-xl": "clamp(2.2rem, 1.8941rem + 0.9560vw, 3.2rem)",
+      "--text-2xl": "clamp(2.4rem, 1.7576rem + 2.0076vw, 4.5rem)",
+      "--text-3xl": "clamp(3.2rem, 2.2822rem + 2.8681vw, 6.2rem)"
+    }
+  }
+}
